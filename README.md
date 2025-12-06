@@ -1,4 +1,4 @@
-# RAG Intelligent Agent
+# 💻 RAG Intelligent Agent
 ---
 This project provides a modular Streamlit app built with **LangChain**, **FAISS**, **Ollama**, **Wikipedia**, and **Arxiv tools** to answer questions about LangFlow using retrieval-augmented generation (RAG) + tool-calling agents.
 
@@ -91,6 +91,7 @@ Open in your browser:
 ```
 
 ## Demo
+https://github.com/user-attachments/assets/40931b6d-afeb-4d61-be68-32ee20246c3f
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
